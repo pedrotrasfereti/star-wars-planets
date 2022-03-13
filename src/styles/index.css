@@ -1,0 +1,21 @@
+/* Google Fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;500;600&display=swap') ;
+
+.Table {
+  border: 2px solid grey;
+  color: black;
+  font: 300 15px Barlow , sans-serif;
+  height: 550px;
+  overflow: scroll;
+  width: 850px;
+}
+
+.Table table th, .Table table td {
+  border: 1px solid gainsboro;
+  padding: 5px 10px;
+}
+
+.Table table {
+  border-collapse: collapse;
+}
