@@ -25,10 +25,10 @@ In this Star Wars themed website, you can explore the planets from the epic spac
 
 During the development I was able to:
 
-* Use the React `Context API` to manage state;
+* Use the React _Context API_ to manage state;
 * Use the React `useState` hook to declare state variables in components;
 * Use the React `useContext` hook to access data in a global state;
-* Use the React `useEffect` hook to **hydrate** components;
+* Use the React `useEffect` hook for component **hydration**;
 * Create custom React Hooks.
 
 <br>
